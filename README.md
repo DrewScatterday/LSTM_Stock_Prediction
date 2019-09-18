@@ -1,5 +1,5 @@
 # Walking through Support Vector Regression and LSTMs with stock price prediction
-Check out the medium article I wrote on this project here: https://medium.com/@drewscatterday
+Check out the medium article I wrote on this project [here](https://medium.com/@drewscatterday/walking-through-support-vector-regression-and-lstms-with-stock-price-prediction-45e11b620650?source=friends_link&sk=f6c15227acfc7cf58501522d098ea8f4)
 
 ## Purpose:
 In this project I wanted to learn the basics of time series analysis using Support Vector Regression and LSTM Recurrent neural networks.  
