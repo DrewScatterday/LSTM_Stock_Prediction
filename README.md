@@ -1,11 +1,14 @@
 # Walking through Support Vector Regression and LSTMs with stock price prediction
 Check out the medium article I wrote on this project here: https://medium.com/@drewscatterday
 
+## Purpose:
+In this project I wanted to learn the basics of time series analysis using Support Vector Regression and LSTM Recurrent neural networks.  
+
 ## Example output:
 <img src="Images/prediction.png">
 
 
-## Dependencies:
+## Built with:
 * python=3.6.4
 * numpy=1.16.4
 * Tensorflow=1.14.0
